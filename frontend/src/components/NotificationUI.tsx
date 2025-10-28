@@ -1,4 +1,3 @@
-// frontend/src/components/NotificationUI.tsx
 import React, { useEffect, useState } from "react";
 import { socket } from "../socket";
 
